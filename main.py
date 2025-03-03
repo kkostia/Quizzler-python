@@ -12,7 +12,11 @@ for question in question_data:
 
 
 quiz = QuizBrain(question_bank)
+<<<<<<< HEAD
 quiz_ui = QuizInterface()
+=======
+quiz_ui = QuizInterface(quiz)
+>>>>>>> 9bfa458 (Final build)
 
 # while quiz.still_has_questions():
 #     quiz.next_question()

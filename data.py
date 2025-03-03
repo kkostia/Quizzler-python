@@ -4,6 +4,7 @@ data = response.json()
 question_data = data["results"]
 
 
+<<<<<<< HEAD
 
 # question_data = [
 #     {
@@ -107,3 +108,5 @@ question_data = data["results"]
 #         ]
 #     }
 # ]
+=======
+>>>>>>> 9bfa458 (Final build)
